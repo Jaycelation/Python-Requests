@@ -1,0 +1,5 @@
+Normal 
+1. username=*passwd=*
+2. username=F*passwd=*
+Blind
+3. username=*)(|(&passwd=pwd)
