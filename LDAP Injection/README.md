@@ -95,8 +95,11 @@
             print(f"Final successful payload: {successful_chars}")
     ```
 - Payload thành công
+
 ![alt text](image-1.png)
+
 - Login và lấy flag
+
 ![alt text](image-2.png)
 
 ## Tham khảo thêm tại
